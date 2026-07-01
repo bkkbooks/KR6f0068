@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6f0068/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0068/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無量壽經連義述文贊
+  identifiers:
+    krp: KR6f0068
+    cbeta: T37n1748
+    cbeta_old_id: T37n1748
+    authorityid: CA0003416
+    json_key: T1748
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1748.xml
+    old_id: T37n1748
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0068_000-T.yaml, hash: 'sha256:744cb233aa5bec0027df568d5fa6389c64ddfa4c45871585c598092cb8caf809'}
+  - {seq: 1, filename: KR6f0068_001-T.yaml, hash: 'sha256:d1325d109418ee04bb3c95ff3b7a74aee03f03832a3731ea22afe5d6f40eb95f'}
+  - {seq: 2, filename: KR6f0068_002-T.yaml, hash: 'sha256:d1bc35b6054d4690d61f6f75f15bc5ba7d8c1a183b857784a2ba48430d779f31'}
+  - {seq: 3, filename: KR6f0068_003-T.yaml, hash: 'sha256:492470a944da9c1eecf89267e32976795c878ad67f9c3483e0e866bbcc0d0dbe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0068_000-T.markers.yaml, hash: 'sha256:b6cf5235a73f763eaff2df2cf10d1360cf6eca4f59e28ac887c84a22bda6badd'}
+  - {seq: 1, role: markers, filename: assets/KR6f0068_001-T.markers.yaml, hash: 'sha256:159be1da74a75e9034206e9d8cb882b6f32a8fc08119ff6ee8de9d6f128cf97c'}
+  - {seq: 2, role: markers, filename: assets/KR6f0068_002-T.markers.yaml, hash: 'sha256:5239434990b0bffa15cf5ee622ff8b623590cba202806fe60d864d61e5039e37'}
+  - {seq: 3, role: markers, filename: assets/KR6f0068_003-T.markers.yaml, hash: 'sha256:0923234b04633e136dfcb85b9b6f39943eb8d81d19c4deb220c6d00227011c14'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0068_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 16458
+  label: 無量壽經連義述文贊卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0068_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 20323
+  label: 無量壽經連義述文贊卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0068_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 17713
+  label: 無量壽經連義述文贊卷下
+  type: juan
+  level: 1
+hash: sha256:3ad05adcebe120679bec881f851356477c9959fa63a1e17937ddb379abc27261
