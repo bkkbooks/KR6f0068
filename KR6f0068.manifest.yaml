@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0068_000.yaml, hash: 'sha256:744cb233aa5bec0027df568d5fa6389c64ddfa4c45871585c598092cb8caf809'}
-  - {seq: 1, filename: KR6f0068_001.yaml, hash: 'sha256:d9f1d9acdd9d60cf22165e72120cf131df1d6806f9a1d82954b497c51779e4c0'}
-  - {seq: 2, filename: KR6f0068_002.yaml, hash: 'sha256:f9646c6e9253f83dcd3d78c5eba38c1e00b6e239ab7888783b3da40c81e8fa4d'}
-  - {seq: 3, filename: KR6f0068_003.yaml, hash: 'sha256:999c858bb88327e58ec96656ded65cebb6ffa48e9c8d726980e01af3b24c5ca3'}
+  - {seq: 1, filename: KR6f0068_001.yaml, hash: 'sha256:d1325d109418ee04bb3c95ff3b7a74aee03f03832a3731ea22afe5d6f40eb95f'}
+  - {seq: 2, filename: KR6f0068_002.yaml, hash: 'sha256:d1bc35b6054d4690d61f6f75f15bc5ba7d8c1a183b857784a2ba48430d779f31'}
+  - {seq: 3, filename: KR6f0068_003.yaml, hash: 'sha256:492470a944da9c1eecf89267e32976795c878ad67f9c3483e0e866bbcc0d0dbe'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0068_001.markers.yaml, hash: 'sha256:adb1e22761f9a564accc3dd5e3553576e74a61c85cf7a9f6986de9b24ff570a7'}
-  - {seq: 2, role: markers, filename: assets/KR6f0068_002.markers.yaml, hash: 'sha256:5a63f0e0e64739ee9566742a3f944e48526f851aa09f96e3d7cacd039f741eef'}
-  - {seq: 3, role: markers, filename: assets/KR6f0068_003.markers.yaml, hash: 'sha256:0de54d90fcda634740589f45c999384b57ecdd8cd36020f7bad128dd0842257f'}
+  - {seq: 0, role: markers, filename: assets/KR6f0068_000.markers.yaml, hash: 'sha256:27b8f035f44b88a41180526bcd01150c20a9c92b6ce8e9eb109a2647bd462c66'}
+  - {seq: 1, role: markers, filename: assets/KR6f0068_001.markers.yaml, hash: 'sha256:901e763b14261fbc12a831c2f53eb83b8d610f8d529765232660ed2806e5c9e5'}
+  - {seq: 2, role: markers, filename: assets/KR6f0068_002.markers.yaml, hash: 'sha256:a54a9a909e6806c500f0743511e3206ca6eb86f5f777f2f47779bc4498c7dbde'}
+  - {seq: 3, role: markers, filename: assets/KR6f0068_003.markers.yaml, hash: 'sha256:c4907053c7e6c8c4f47640a9e2d21cac0f116ef361f7e30a6d098ad12a4f46c0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 無量壽經連義述文贊卷下
   type: juan
   level: 1
-hash: sha256:6410385d8076e1a2dd6879b61fed6ab2939ecb42e9435205935d33592ff64be8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:80fd650d777393d436582a1d6b12c75561155fe76a76b802e6be0f75631d1323
